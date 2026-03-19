@@ -584,13 +584,13 @@ std::vector<float> JacobiKokkos(
 |-----|----|------|----|
 |3822B1FI1|rezantseva_anastasia|0.4031|4|
 |3822B1FI1|beskhmelnova_kseniya|0.4091|2|
+|3822B1FI3|lopatin_ilya|0.4338|3|
 |3822B1FI1|solovev_alexey|0.4340|3|
 |3822B1FI1|chistov_alexey|0.4392|1|
 |**REF**|**REF**|**0.4392**|**-**|
 |3822B1FI3|kolodkin_grigorii|0.4450|1|
 |3822B1FI3|frolova_elizaveta|0.4468|2|
 |3822B1FI1|shulpin_ilya|BUILD FAILED|-|
-|3822B1FI3|lopatin_ilya|BUILD FAILED|-|
 
 ## 8_integral_kokkos (65536 elements)
 |Group|Name|Result|Rank|
@@ -641,10 +641,10 @@ Passed: 0
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
 |3822B1FI3|chizhov_maxim|0/9|0|
-|3822B1FI3|frolova_elizaveta|8/9|493|
+|3822B1FI3|frolova_elizaveta|8/9|492|
 |3822B1FI3|kholin_kirill|3/9|178|
-|3822B1FI3|kolodkin_grigorii|**9/9**|**563**|
-|3822B1FI3|lopatin_ilya|6/9|368|
+|3822B1FI3|kolodkin_grigorii|**9/9**|**562**|
+|3822B1FI3|lopatin_ilya|7/9|430|
 |3822B1FI3|lysov_ivan|1/9|56|
 |3822B1FI3|sozonov_ilya|1/9|58|
 
